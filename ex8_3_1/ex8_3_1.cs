@@ -20,7 +20,12 @@ namespace exercise
                 array[i] = Convert.ToInt32(Console.ReadLine());
             }
 
-
+            System.Console.WriteLine("Sorted array:");
+            Array.Sort(array);
+            foreach (int k in array)
+            {
+                System.Console.WriteLine(k);
+            }
 
             Console.WriteLine("Squared elements in array are: ");
             for (i = 0; i < numberOfUserInputs; i++)
