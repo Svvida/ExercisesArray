@@ -1,0 +1,15 @@
+H:\exerArray\ex8_4_4\bin\Debug\net6.0\ex8_4_4.exe
+H:\exerArray\ex8_4_4\bin\Debug\net6.0\ex8_4_4.deps.json
+H:\exerArray\ex8_4_4\bin\Debug\net6.0\ex8_4_4.runtimeconfig.json
+H:\exerArray\ex8_4_4\bin\Debug\net6.0\ex8_4_4.dll
+H:\exerArray\ex8_4_4\bin\Debug\net6.0\ex8_4_4.pdb
+H:\exerArray\ex8_4_4\obj\Debug\net6.0\ex8_4_4.csproj.AssemblyReference.cache
+H:\exerArray\ex8_4_4\obj\Debug\net6.0\ex8_4_4.GeneratedMSBuildEditorConfig.editorconfig
+H:\exerArray\ex8_4_4\obj\Debug\net6.0\ex8_4_4.AssemblyInfoInputs.cache
+H:\exerArray\ex8_4_4\obj\Debug\net6.0\ex8_4_4.AssemblyInfo.cs
+H:\exerArray\ex8_4_4\obj\Debug\net6.0\ex8_4_4.csproj.CoreCompileInputs.cache
+H:\exerArray\ex8_4_4\obj\Debug\net6.0\ex8_4_4.dll
+H:\exerArray\ex8_4_4\obj\Debug\net6.0\refint\ex8_4_4.dll
+H:\exerArray\ex8_4_4\obj\Debug\net6.0\ex8_4_4.pdb
+H:\exerArray\ex8_4_4\obj\Debug\net6.0\ex8_4_4.genruntimeconfig.cache
+H:\exerArray\ex8_4_4\obj\Debug\net6.0\ref\ex8_4_4.dll
