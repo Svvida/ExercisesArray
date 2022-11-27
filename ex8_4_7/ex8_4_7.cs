@@ -18,7 +18,11 @@ namespace exercise
             {
                 Console.Write("element - {0} : ", i);
                 array[i] = Convert.ToInt32(Console.ReadLine());
-                array[i] += 100; //increase each array element by 100
+                if (i % 2 == 0)
+                {
+                    array[i] += 100; //increase each array element by 100
+                }
+
 
 
             }
@@ -26,22 +30,22 @@ namespace exercise
 
 
 
-            System.Console.WriteLine("Sorted array with elements increased by 100:");
+            System.Console.WriteLine("Sorted array with even numbers increased by 100:");
             Array.Sort(array); //sort array
             foreach (int k in array)
             {
                 System.Console.WriteLine(k);
             }
 
-            Console.WriteLine("Even numbers: ");
-            foreach (int element in array)
-            {
-                if (element % 2 == 0) //find even numbers
-                {
+            // Console.WriteLine("Even numbers: ");
+            // foreach (int element in array)
+            // {
+            //     if (element % 2 == 0) //find even numbers   
+            //     {
 
-                    System.Console.WriteLine(element);
-                }
-            }
+            //         System.Console.WriteLine(element);
+            //     }
+            // }
 
 
 
