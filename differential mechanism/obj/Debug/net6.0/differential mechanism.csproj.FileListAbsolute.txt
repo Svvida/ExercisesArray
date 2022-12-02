@@ -1,0 +1,15 @@
+H:\exerArray\differential mechanism\bin\Debug\net6.0\differential mechanism.exe
+H:\exerArray\differential mechanism\bin\Debug\net6.0\differential mechanism.deps.json
+H:\exerArray\differential mechanism\bin\Debug\net6.0\differential mechanism.runtimeconfig.json
+H:\exerArray\differential mechanism\bin\Debug\net6.0\differential mechanism.dll
+H:\exerArray\differential mechanism\bin\Debug\net6.0\differential mechanism.pdb
+H:\exerArray\differential mechanism\obj\Debug\net6.0\differential mechanism.csproj.AssemblyReference.cache
+H:\exerArray\differential mechanism\obj\Debug\net6.0\differential mechanism.GeneratedMSBuildEditorConfig.editorconfig
+H:\exerArray\differential mechanism\obj\Debug\net6.0\differential mechanism.AssemblyInfoInputs.cache
+H:\exerArray\differential mechanism\obj\Debug\net6.0\differential mechanism.AssemblyInfo.cs
+H:\exerArray\differential mechanism\obj\Debug\net6.0\differential mechanism.csproj.CoreCompileInputs.cache
+H:\exerArray\differential mechanism\obj\Debug\net6.0\differential mechanism.dll
+H:\exerArray\differential mechanism\obj\Debug\net6.0\refint\differential mechanism.dll
+H:\exerArray\differential mechanism\obj\Debug\net6.0\differential mechanism.pdb
+H:\exerArray\differential mechanism\obj\Debug\net6.0\differential mechanism.genruntimeconfig.cache
+H:\exerArray\differential mechanism\obj\Debug\net6.0\ref\differential mechanism.dll
