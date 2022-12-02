@@ -1,0 +1,15 @@
+H:\exerArray\isPalindrome\bin\Debug\net6.0\isPalindrome.exe
+H:\exerArray\isPalindrome\bin\Debug\net6.0\isPalindrome.deps.json
+H:\exerArray\isPalindrome\bin\Debug\net6.0\isPalindrome.runtimeconfig.json
+H:\exerArray\isPalindrome\bin\Debug\net6.0\isPalindrome.dll
+H:\exerArray\isPalindrome\bin\Debug\net6.0\isPalindrome.pdb
+H:\exerArray\isPalindrome\obj\Debug\net6.0\isPalindrome.csproj.AssemblyReference.cache
+H:\exerArray\isPalindrome\obj\Debug\net6.0\isPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+H:\exerArray\isPalindrome\obj\Debug\net6.0\isPalindrome.AssemblyInfoInputs.cache
+H:\exerArray\isPalindrome\obj\Debug\net6.0\isPalindrome.AssemblyInfo.cs
+H:\exerArray\isPalindrome\obj\Debug\net6.0\isPalindrome.csproj.CoreCompileInputs.cache
+H:\exerArray\isPalindrome\obj\Debug\net6.0\isPalindrome.dll
+H:\exerArray\isPalindrome\obj\Debug\net6.0\refint\isPalindrome.dll
+H:\exerArray\isPalindrome\obj\Debug\net6.0\isPalindrome.pdb
+H:\exerArray\isPalindrome\obj\Debug\net6.0\isPalindrome.genruntimeconfig.cache
+H:\exerArray\isPalindrome\obj\Debug\net6.0\ref\isPalindrome.dll
