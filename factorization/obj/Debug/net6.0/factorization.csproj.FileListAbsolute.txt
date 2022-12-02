@@ -1,0 +1,15 @@
+H:\exerArray\factorization\bin\Debug\net6.0\factorization.exe
+H:\exerArray\factorization\bin\Debug\net6.0\factorization.deps.json
+H:\exerArray\factorization\bin\Debug\net6.0\factorization.runtimeconfig.json
+H:\exerArray\factorization\bin\Debug\net6.0\factorization.dll
+H:\exerArray\factorization\bin\Debug\net6.0\factorization.pdb
+H:\exerArray\factorization\obj\Debug\net6.0\factorization.csproj.AssemblyReference.cache
+H:\exerArray\factorization\obj\Debug\net6.0\factorization.GeneratedMSBuildEditorConfig.editorconfig
+H:\exerArray\factorization\obj\Debug\net6.0\factorization.AssemblyInfoInputs.cache
+H:\exerArray\factorization\obj\Debug\net6.0\factorization.AssemblyInfo.cs
+H:\exerArray\factorization\obj\Debug\net6.0\factorization.csproj.CoreCompileInputs.cache
+H:\exerArray\factorization\obj\Debug\net6.0\factorization.dll
+H:\exerArray\factorization\obj\Debug\net6.0\refint\factorization.dll
+H:\exerArray\factorization\obj\Debug\net6.0\factorization.pdb
+H:\exerArray\factorization\obj\Debug\net6.0\factorization.genruntimeconfig.cache
+H:\exerArray\factorization\obj\Debug\net6.0\ref\factorization.dll
